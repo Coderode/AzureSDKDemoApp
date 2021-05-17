@@ -1,0 +1,16 @@
+PODS:
+  - MicrosoftCognitiveServicesSpeech-iOS (1.16.0)
+
+DEPENDENCIES:
+  - MicrosoftCognitiveServicesSpeech-iOS (~> 1.6)
+
+SPEC REPOS:
+  trunk:
+    - MicrosoftCognitiveServicesSpeech-iOS
+
+SPEC CHECKSUMS:
+  MicrosoftCognitiveServicesSpeech-iOS: acff31a49614efdf4ea58729c190840468fd17e2
+
+PODFILE CHECKSUM: c42559806a340ac30d49a51c9d7e1eb7ff2bcbae
+
+COCOAPODS: 1.10.1
